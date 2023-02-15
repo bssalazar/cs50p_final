@@ -1,0 +1,8 @@
+openpyxl
+os
+pandas
+re
+tkinter
+tkinter.messagebox
+tkinter.ttk
+validator_collection
